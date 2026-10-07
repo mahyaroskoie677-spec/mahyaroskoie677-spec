@@ -7,5 +7,4 @@
 - Become a professional Python developer
 - Build real-world projects
 - keep improving my programming skills
-## 🚀 Projects
-Coming soon...
+
